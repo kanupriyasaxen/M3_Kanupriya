@@ -10,7 +10,7 @@
 |Ghanamrut Marathe|Design, Delay function, Alarm function, Battery Info function|
 |Kanupriya Saxena|5W and 1H /SWOT Anlysis, LED Initialization, Lock function, Window Status function|
 
-# M3_31
+# M3_Kanupriya
 Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. 
 
 1.A) RKE transmission requires two components - a transmitter and a receiver.

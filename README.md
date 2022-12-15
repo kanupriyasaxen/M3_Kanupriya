@@ -3,12 +3,12 @@
 ![Code grade](https://api.codiga.io/project/31922/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/867330aaf60b48b097d7322cbe29d6ad)](https://www.codacy.com/gh/Ghanamrut/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ghanamrut/M2-EmbSys&amp;utm_campaign=Badge_Grade)
 
-|Name|Contribution|
-|--------|---------|
-|Gaurav Pawar|Requriment, Button Initialization, Approch Light function, Door Status function|
-|Akshay Eknathe|Test Plan, While loop, Unlock function, Alarm Status function|
-|Ghanamrut Marathe|Design, Delay function, Alarm function, Battery Info function|
-|Kanupriya Saxena|5W and 1H /SWOT Anlysis, LED Initialization, Lock function, Window Status function|
+|Index|
+|--------|
+Requriment, Button Initialization, Approch Light function, Door Status function|
+Test Plan, While loop, Unlock function, Alarm Status function|
+Design, Delay function, Alarm function, Battery Info function|
+5W and 1H /SWOT Anlysis, LED Initialization, Lock function, Window Status function|
 
 # M3_Kanupriya
 Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles. 
